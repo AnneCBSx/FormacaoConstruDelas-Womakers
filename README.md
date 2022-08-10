@@ -1,2 +1,12 @@
 # Formação ConstruDelas-Womakers
-O ConstruDelas é um programa de capacitação para mulheres na área de programação back-end, criado pela Juntos Somos Mais, em parceria com a WoMakersCode.  Este bootcamp possui duração de 21 semanas, sendo mais de 200 horas de capacitação técnica.  Ementas e projetos  Ementa Front-end   Projeto Front-end   Ementa Back-end
+O ConstruDelas é um programa de capacitação para mulheres na área de programação back-end, criado pela Juntos Somos Mais, em parceria com a WoMakersCode.  Este bootcamp possui duração de 21 semanas, sendo mais de 200 horas de capacitação técnica.  Possuindo as seguintes ementas: 
+
+- [x] [Ementa Front-end](https://github.com/AnneCBSx/FormacaoConstrulDelas-Womakers/blob/main/Backend%20Ementa)
+
+- [x] [Projeto Front-end](https://github.com/Vivianevqs/TimeDorothy)
+
+- [ ] [Ementa Back-end](https://github.com/AnneCBSx/FormacaoConstrulDelas-Womakers/blob/main/Front%20end%20ementa)
+- [X] [Projeto Back-end](https://github.com/jricao/grupo4-karensparckjones-desafio3)
+- [] [Desafios Back-end]()
+
+
