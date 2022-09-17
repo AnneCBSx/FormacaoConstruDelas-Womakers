@@ -1,4 +1,4 @@
-<h1> Formação ConstruDelas-Womaker<h1>
+<h1> Formação ConstruDelas-Womakers<h1>
 
 O ConstruDelas é um programa de capacitação para mulheres na área de programação back-end, criado pela Juntos Somos Mais, em parceria com a WoMakersCode.  Este bootcamp possui duração de 21 semanas, sendo mais de 200 horas de capacitação técnica. 
 
